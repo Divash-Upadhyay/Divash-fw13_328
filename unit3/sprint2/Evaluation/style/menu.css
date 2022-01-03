@@ -1,0 +1,27 @@
+body{
+    background-color: teal;
+}
+#menu{
+    background-color: aqua;
+    border: 1px solid transparent;
+    margin-bottom: 50px;
+    text-align: center;
+    color: rgb(99, 89, 76);
+}
+#car{
+    border: 1px solid yellow;
+    width: 10%;
+    /* float: left; */
+    height: 30px;
+    background-color: cornsilk;
+}
+#car>a{
+    text-decoration: none;
+    font-weight: bolder;
+}
+#item{
+    float: right;
+    border: 1px solid goldenrod;
+    vertical-align: top;
+    background-color: burlywood;
+}
